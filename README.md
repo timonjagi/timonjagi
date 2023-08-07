@@ -2,7 +2,7 @@
 
 ## About me
 - 🌍  I'm based in Nairobi, KE.
-- 🔭 I’m currently working on beta.doghouse.ke
+- 🔭 I’m currently working on [[Doghouse](https://beta.doghouse.ke)]
 - 🌱 I’m currently learning Next.js 13
 - 👯 I’m looking to collaborate on anything React
 - 🤔 I’m looking for help with finding a remote job
