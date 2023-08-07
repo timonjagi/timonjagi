@@ -17,5 +17,5 @@
 ## Stats
   [![Tim's GitHub stats](https://github-readme-stats-timonjagi.vercel.app/api?username=timonjagi&show_icons=true&theme=radical)](https://github.com/timonjagi/github-readme-stats)
 
-  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=timonjagi&show_icons=true&theme=radical)](https://github.com/timonjagi/github-readme-stats)
+  [![Top Languages](https://github-readme-stats.vercel-timonjagi.app/api/top-langs/?username=timonjagi&show_icons=true&theme=radical)](https://github.com/timonjagi/github-readme-stats)
 
