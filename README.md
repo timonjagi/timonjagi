@@ -8,14 +8,14 @@
 - 🤔 I’m looking for help with finding a remote job
 - 💬 Ask me about my dog, Rusty
 
-  ## Skills
-  #### Programming languages
-  #### Libraries and frameworks
-  #### Tools and platforms
+## Skills
+#### Programming languages
+#### Libraries and frameworks
+#### Tools and platforms
 
 
-  ## Stats
-[![Tim's GitHub stats](https://github-readme-stats-timonjagi.vercel.app/api?username=timonjagi)](https://github.com/timonjagi/github-readme-stats)
+## Stats
+  [![Tim's GitHub stats](https://github-readme-stats-timonjagi.vercel.app/api?username=timonjagi)](https://github.com/timonjagi/github-readme-stats)
 
-[![Top Languages](https://github-readme-stats-timonjagi.vercel.app/api/top-langs/?username=timonjagi)](https://github.com/timonjagi/github-readme-stats)
+  [![Top Languages](https://github-readme-stats-timonjagi.vercel.app/api/top-langs/?username=timonjagi)](https://github.com/timonjagi/github-readme-stats)
 
