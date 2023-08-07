@@ -1,16 +1,18 @@
-### Hi there 👋
+## Hi there, I'm Tim 👋
 
-<!--
-**timonjagi/timonjagi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me
+- 🌍  I'm based in Nairobi, KE.
+- 🔭 I’m currently working on beta.doghouse.ke
+- 🌱 I’m currently learning Next.js 13
+- 👯 I’m looking to collaborate on anything React
+- 🤔 I’m looking for help with finding a remote job
+- 💬 Ask me about my dog, Rusty
 
-Here are some ideas to get you started:
+  ### Skills
+  ##### Programming languages
+  ##### Libraries and frameworks
+  ##### Tools and platforms
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+  ### Stats
+[![Tim's GitHub stats](https://github-readme-stats.vercel.app/api?username=timonjagi)](https://github.com/anuraghazra/github-readme-stats)
