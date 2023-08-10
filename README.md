@@ -1,4 +1,4 @@
-# Hi there, I'm Tim 👋
+# Hi, I'm Tim 👋
 
 ## About me
 - 🌍 I'm based in Nairobi, KE.
