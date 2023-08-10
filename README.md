@@ -1,11 +1,11 @@
 # Hi, I'm Tim 👋
 
 ## About me
-- 🌍 I'm based in Nairobi, KE.
-- 🔭 I’m currently working on [Doghouse](https://beta.doghouse.ke)
-- 🌱 I’m currently learning Next.js 13
-- 👯 I’m looking to collaborate on anything React
-- 💬 Ask me about my dog, Rusty
+- 🌍 Based in Nairobi, KE.
+- 🔭 Currently working on [Doghouse](https://beta.doghouse.ke)
+- 🌱 Currently learning Next.js 13
+- 👯 Looking to collaborate on integrating Payment Systems with NFT
+- 💬 Ask me about my country 🇰🇪
 
 ## Skills
 #### Programming languages
