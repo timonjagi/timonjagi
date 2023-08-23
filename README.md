@@ -2,9 +2,8 @@
 
 ## About me
 - 🌍 Based in Nairobi, KE.
-- 🔭 Currently working on [Doghouse](https://beta.doghouse.ke)
+- 🔭 Currently working on [Bingwa](https://bingwa.ke)
 - 🌱 Currently learning Next.js 13
-- 👯 Looking to collaborate on beats [Drive](https://drive.google.com/drive/folders/13qzUjexRb1guAXc1IxoagHtMupdXYfSF?usp=sharing) | [Beatstars](https://www.beatstars.com/playthemaker)
 - 💬 Ask me about my country 🇰🇪
 
 ## Skills
