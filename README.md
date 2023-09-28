@@ -32,3 +32,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=timonjagi&show_icons=true&locale=en&layout=compact" alt="timonjagi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=timonjagi&" alt="timonjagi" /></p>
+
+![](https://raw.githubusercontent.com/timonjagi/github-stats/master/generated/overview.svg#gh-dark-mode-only)
