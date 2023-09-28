@@ -34,3 +34,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=timonjagi&" alt="timonjagi" /></p>
 
 ![](https://raw.githubusercontent.com/timonjagi/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/timonjagi/github-stats/master/generated/overview.svg#gh-light-mode-only)
+
+![](https://raw.githubusercontent.com/timonjagi/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/timonjagi/github-stats/master/generated/languages.svg#gh-light-mode-only)
