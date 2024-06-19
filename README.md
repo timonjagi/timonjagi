@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **timothy.njagi@gmail.com**
 <hr>
-<div display="flex" justify-content="space-between">
+<div display="flex" align="justify">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=timonjagi&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=timonjagi&theme=tokyonight" alt="mystreak"/>
 </div>
