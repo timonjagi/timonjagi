@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * 🌍  I'm based in Kenya
 * 🖥️  See my portfolio at [njihianjagi.com](http://tim-njagi-portfolio.vercel.app/)
 * ✉️  You can contact me at [njihianjagi@gmail.com](mailto:njihianjagi@gmail.com)
-* 🚀  I'm currently working on [Doghouse](http://beta.doghouse.co.ke)
+* 🚀  I'm currently working on [Doghouse](http://doghouse.co.ke)
 * 🧠  I'm learning React Native
 * 🤝  I'm open to collaborating on anything
 
