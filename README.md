@@ -1,10 +1,9 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Njihia Njagi
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Timothy Njagi
 ====================================================================================================================================
 
 
 * 🌍  I'm based in Kenya
-* 🖥️  See my portfolio at [njihianjagi.com](http://tim-njagi-portfolio.vercel.app/)
-* ✉️  You can contact me at [njihianjagi@gmail.com](mailto:njihianjagi@gmail.com)
+* ✉️  You can contact me at [timothy.njagi@gmail.com](mailto:timothy.njagi@gmail.com)
 * 🚀  I'm currently working on [Doghouse](http://doghouse.co.ke)
 * 🧠  I'm learning React Native
 * 🤝  I'm open to collaborating on anything
