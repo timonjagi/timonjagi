@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ====================================================================================================================================
 
 * 👤  My name is Timothy Njagi
-* 🌍  I'm based in Kenya
+* 🌍  I'm based in Nairobi, Kenya
 * ✉️  You can contact me at [timothy.njagi@gmail.com](mailto:timothy.njagi@gmail.com)
 * 🚀  I'm currently working on [Doghouse](http://doghouse.co.ke)
 * 🧠  I'm learning React Native
